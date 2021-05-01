@@ -1,39 +1,39 @@
 
 <h2 align="center" style="background:black;color:white;height:60px;padding-top:10px;border-width:2px;border:2px solid;border-radius:10px;">
-    🖐😃 Ola, eu sou o Charles
+    🖐😃 Hello, I'm Charles
 </h2>
 <div style="border-width:2px;border:2px solid;border-radius:10px;padding:10px 10px 5px 20px;">
 
-Sou apenas um curioso pela área da computação, matematica e desenvolvimento de algoritmos eficientes.
+I am curious about the area of computing, mathematics and the development of efficient algorithms.
 </div>
 
-## 👀 Meus interesses são:
+## 👀 My interests are:
 
 <div style="border-width:2px;border:2px solid;border-radius:10px;padding:10px 10px 5px 20px;">
 
-* 📌 **Algoritmos**
-* 📌 **Estruturas de dados**
-* 📌 **Otimização**
-* 🎲 **Matematica**
-* 📌 Simulações
-* 📌 Inteligencia artificial
-* 🎮 Desenvolvimento de jogos
-* 🐍 **Python** e **C** 💖
+* 📌 **Algorithms**
+* 📌 **Data structures**
+* 📌 **Optimization**
+* 🎲 **Math**
+* 📌 Simulations
+* 📌 Artificial intelligence
+* 🎮 Game development
+* 🐍 **Python** and **C** 💖
 
 </div>
 
 
-## 👨‍💻⌛ Atualmente estudando: 📚
+## 👨‍💻⌛ Currently studying: 📚
 <div style="border-width:2px;border:2px solid;border-radius:10px;padding:10px 10px 5px 20px;">
 
 * ⚙️ **Design Patterns**
-* 📌 **Desenvolvimento Web Frontend/Backend**
-* 🖼 Processamento de imagens
-* 📌 Inteligencia artificial :robot:
+* 📌 **Frontend / Backend Web Development**
+* 🖼 Image processing
+* 📌 Artificial intelligence :robot:
 
 </div>
 
-## 🛠 🧰 Linguagems e ferramentas: 💻
+## 🛠 🧰 Languages and tools: 💻
 
 <div style="border-width:2px;border:2px solid;border-radius:10px;padding:10px 10px 5px 20px;">
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg alt="Nodejs" width="50">
@@ -55,7 +55,7 @@ Sou apenas um curioso pela área da computação, matematica e desenvolvimento d
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="50">
 </div>
 
-## Estatisticas
+## Statistics
 
 ![FranciscoCharles GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoCharles&show_icons=true&theme=jolly)
 
