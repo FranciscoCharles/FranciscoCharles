@@ -1,10 +1,9 @@
 
-<h2 align="center" style="background:black;color:white;height:60px;padding-top:10px;border-width:2px;border:2px solid;border-radius:10px;">
+<h2 align="center" style="background:black;">
     🖐😃 Hello, I'm Charles
 </h2>
 <div style="border-width:2px;border:2px solid;border-radius:10px;padding:10px 10px 5px 20px;">
-
-I am curious about the area of computing, mathematics and the development of efficient algorithms.
+I'm C / Python developer, aspiring JS web developer. I like math, algorithm theory and design patterns.
 </div>
 
 ## 👀 My interests are:
@@ -42,9 +41,11 @@ I am curious about the area of computing, mathematics and the development of eff
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50">
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter-notebook" width="50">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="python" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" width="50">
 
@@ -53,6 +54,9 @@ I am curious about the area of computing, mathematics and the development of eff
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="50">
+    
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJs" width="50">
+    
 </div>
 
 ## Statistics
