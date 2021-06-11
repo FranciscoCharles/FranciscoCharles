@@ -1,9 +1,9 @@
 
-<h2 align="center" style="background:black;">
+<h2 align="center"">
     🖐😃 Hello, I'm Charles
 </h2>
 <div align="center">
-I'm C / Python developer, aspiring JS web developer. I like math, algorithm theory and design patterns.
+	I'm <b>C</b>/<b>Python</b> developer, aspiring JS web developer. I like math, algorithm theory and design patterns.
 </div>
 
 ## 👀 My interests are:
@@ -23,18 +23,25 @@ I'm C / Python developer, aspiring JS web developer. I like math, algorithm theo
 
 
 ## 👨‍💻⌛ Currently studying: 📚
-<div style="border-width:2px;border:2px solid;border-radius:10px;padding:10px 10px 5px 20px;">
+<div>
 
 * ⚙️ **Design Patterns**
 * 📌 **Frontend / Backend Web Development**
+* ⚛️ **ReactJS**
 * 🖼 Image processing
 * 📌 Artificial intelligence :robot:
 
 </div>
 
+## 🔮✨ Experiences:
+
+* **4 years** of experience in C.
+* **3 years** of experience in Python.
+
 ## 🛠 🧰 Languages and tools: 💻
 
-<div align="center"">
+<div align="center">
+					
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg alt="Nodejs" width="50">
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VisualStudioCode" width="50">
@@ -59,10 +66,13 @@ I'm C / Python developer, aspiring JS web developer. I like math, algorithm theo
     
 </div>
 
-## Statistics
+## 📊 📈 Statistics:
+<div align="center">
 
 ![FranciscoCharles GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoCharles&show_icons=true&theme=jolly)
-
+                                                                                                           
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoCharles&langs_count=8&theme=jolly)](https://github.com/FranciscoCharles/github-readme-stats)
+																										   
+</div>
 
 
