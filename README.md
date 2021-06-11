@@ -2,7 +2,7 @@
 <h2 align="center" style="background:black;">
     🖐😃 Hello, I'm Charles
 </h2>
-<div style="border-width:2px;border:2px solid;border-radius:10px;padding:10px 10px 5px 20px;">
+<div align="center">
 I'm C / Python developer, aspiring JS web developer. I like math, algorithm theory and design patterns.
 </div>
 
