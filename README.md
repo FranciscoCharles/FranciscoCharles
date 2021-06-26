@@ -1,4 +1,3 @@
-
 <h2 align="center"">
     🖐😃 Hello, I'm Charles
 </h2>
@@ -21,7 +20,6 @@
 
 </div>
 
-
 ## 👨‍💻⌛ Currently studying: 📚
 <div>
 
@@ -42,7 +40,7 @@
 
 <div align="center">
 					
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg alt="Nodejs" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Nodejs" width="50">
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VisualStudioCode" width="50">
 
@@ -65,7 +63,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJs" width="50">
     
 </div>
-
+																																	 
+## 📧 Contact 📫 :
+<div align="left">
+	<a href="https://www.linkedin.com/in/francisco-charles-852852215/" target="_blank">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedin" height="100">
+	</a>
+</div>
+																																		 
 ## 📊 📈 Statistics:
 <div align="center">
 
