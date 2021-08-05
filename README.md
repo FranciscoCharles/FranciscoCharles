@@ -4,11 +4,10 @@
 <div align="center">
 	I'm <b>C</b>/<b>Python</b> developer, aspiring JS web developer. I like math, algorithm theory and design patterns.
 </div>
-
-## 👀 My interests are:
-
-<div style="border-width:2px;border:2px solid;border-radius:10px;padding:10px 10px 5px 20px;">
-
+									 
+<details>
+    <summary>👀 My interests are:</summary>			
+									 
 * 📌 **Algorithms**
 * 📌 **Data structures**
 * 📌 **Optimization**
@@ -17,11 +16,11 @@
 * 📌 Artificial intelligence
 * 🎮 Game development
 * 🐍 **Python** and **C** 💖
+									 
+</details>
 
-</div>
-
-## 👨‍💻⌛ Currently studying: 📚
-<div>
+<details>
+    <summary>👨‍💻⌛ Currently studying: 📚</summary>
 
 * ⚙️ **Design Patterns**
 * 📌 **Frontend / Backend Web Development**
@@ -29,13 +28,16 @@
 * 🖼 Image processing
 * 📌 Artificial intelligence :robot:
 
-</div>
+</details>
 
-## 🔮✨ Experiences:
+<details>
+    <summary>🔮✨ Experiences:</summary>
 
 * **4 years** of experience in C.
 * **3 years** of experience in Python.
-
+									 
+</details>
+									 
 ## 🛠 🧰 Languages and tools: 💻
 
 <div align="center">
@@ -66,9 +68,12 @@
 																																	 
 ## 📧 Contact 📫 :
 <div align="left">
-	<a href="https://www.linkedin.com/in/francisco-charles-852852215/" target="_blank">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedin" height="100">
+	<a href="https://www.linkedin.com/in/francisco-charles-852852215/" target="_blank">						  
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="30">
 	</a>
+	<a href="https://medium.com/@frogfccharles963" target="_blank">						  
+		<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="30">
+	</a>																	   
 </div>
 																																		 
 ## 📊 📈 Statistics:
