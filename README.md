@@ -4,7 +4,25 @@
 <div align="center">
 	I'm <b>C</b>/<b>Python</b> developer, aspiring JS web developer. I like math, algorithm theory and design patterns.
 </div>
-									 
+
+## 👨‍💻⌛ Currently studying: 📚
+
+* 🌶️ **Flask**
+* 📌 **CSS3**
+* ⚛️ **ReactJS**
+* 📌 **Frontend / Backend Web Development**
+* ⚙️ **Design Patterns**
+* 🎲 **MySql** and **MongoDB**
+
+
+<details>
+    <summary>🔮✨ Experiences:</summary>
+
+* **4 years** of experience in C.
+* **3 years** of experience in Python.
+
+</details>
+
 <details>
     <summary>👀 My interests are:</summary>			
 									 
@@ -18,24 +36,6 @@
 * 🐍 **Python** and **C** 💖
 									 
 </details>
-
-<details>
-    <summary>👨‍💻⌛ Currently studying: 📚</summary>
-
-* ⚙️ **Design Patterns**
-* 📌 **Frontend / Backend Web Development**
-* ⚛️ **ReactJS**
-* 🎲 **MySql** and **MongoDB**
-
-</details>
-
-<details>
-    <summary>🔮✨ Experiences:</summary>
-
-* **4 years** of experience in C.
-* **3 years** of experience in Python.
-									 
-</details>
 									 
 ## 🛠 🧰 Languages and tools: 💻
 
@@ -45,21 +45,23 @@
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VisualStudioCode" width="50">
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50">
+													      
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter-notebook" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="50">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJs" width="50">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" width="50">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css3" width="50">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="50">
-    
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJs" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter-notebook" width="50">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50">
 
