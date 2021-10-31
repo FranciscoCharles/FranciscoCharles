@@ -1,43 +1,65 @@
-<h2 align="center"">
-    🖐😃 Hello, I'm Charles
-</h2>
 <div align="center">
-	I'm <b>C</b>/<b>Python</b> developer, aspiring JS web developer. I like math, algorithm theory and design patterns.
+	<img src="asserts/background.png" alt="Nodejs" width="100%">
 </div>
 
-## 👨‍💻⌛ Currently studying: 📚
+<h2 align="center"">
+    Olá, me chamo Charles, bem vindo ao meu perfil.
+</h2>
+<div align="center">
+	<p align="justify">
+		Sou um desenvolvedor auto-didata que atualmente utiliza  com mais frêquencia as linguagens <b>Python</b> e <b>Javascript</b>.
+		Além dessas já tive contato com outras linguagens como <b>Haskel</b>, <b>Java</b>, <b>C++</b> e <b>C</b>( essa ultima é minha terceira linguagem favorita pois foi minha linguagem inicial e ainda costumo implementar estruturas para aprendizado com ela).
+	</p>
+	<p align="justify">
+		Sobre banco de dados já tive que lidar com bancos relacionais e não relacionais, como <b>MySql</b>, <b>MongoDB</b>, <b>Fire Base</b> e <b>SQLite</b>.
+	</p>
+</div>
+
+<details>
+    <summary><img src="asserts/estudando.png" alt="estudando" height="40"></summary>
+Atualmente avançando no universo do desenvolvimento web, visando ser um desenvolvedor full-stack. As principais técnoligias e ferramentas que estou me aprofundando são:
 
 * 🌶️ **Flask**
 * 📌 **CSS3**
+* 📌 **NodeJS**
 * ⚛️ **ReactJS**
-* 📌 **Frontend / Backend Web Development**
-* ⚙️ **Design Patterns**
-* 🎲 **MySql** and **MongoDB**
-
-
-<details>
-    <summary>🔮✨ Experiences:</summary>
-
-* **4 years** of experience in C.
-* **3 years** of experience in Python.
 
 </details>
 
 <details>
-    <summary>👀 My interests are:</summary>			
+    <summary><img src="asserts/formacao.png" alt="formacao" height="40"></summary>
+
+Atualmente cursando Sistemas de informação pela universidade federal do piauí(UFPI).
+
+</details>
+
+<details>
+    <summary><img src="asserts/experiencia.png" alt="experiencia" height="40"></summary>
+
+* **4 anos** de experiência em **C**.
+* **3 anos** de experiência em **Python**.
+* **2 anos** de experiência em **Javascript**.
+
+</details>
+
+<details>
+    <summary><img src="asserts/interesses.png" alt="interesse" height="40"></summary>
+
+Alguns dos meus interesses são:
 									 
 * 📌 **Algorithms**
 * 📌 **Data structures**
 * 📌 **Optimization**
+* 📌 **Designer Patern**
+* 📌 **Clear Code**
 * 🎲 **Math**
 * 📌 Simulations
 * 📌 Artificial intelligence
 * 🎮 Game development
-* 🐍 **Python** and **C** 💖
 									 
 </details>
 									 
-## 🛠 🧰 Languages and tools: 💻
+<img src="asserts/ferramentas.png" alt="ferramentas" widht="100%">
 
 <div align="center">
 					
@@ -69,8 +91,8 @@
 
     
 </div>
-																																	 
-## 📧 Contact 📫 :
+													 
+<img src="asserts/contato.png" alt="contato" widht="100%">
 <div align="left">
 	<a href="https://www.linkedin.com/in/francisco-charles-852852215/" target="_blank">						  
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="30">
@@ -79,8 +101,9 @@
 		<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="30">
 	</a>																	   
 </div>
-																																		 
-## 📊 📈 Statistics:
+
+
+<img src="asserts/estatisticas.png" alt="estatisticas" widht="100%">
 <div align="center">
 
 ![FranciscoCharles GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoCharles&show_icons=true&theme=jolly)
