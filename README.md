@@ -8,7 +8,7 @@
 <div align="center">
 	<p align="justify">
 		Sou um desenvolvedor auto-didata que atualmente utiliza  com mais frêquencia as linguagens <b>Python</b> e <b>Javascript</b>.
-		Além dessas já tive contato com outras linguagens como <b>Haskel</b>, <b>Java</b>, <b>C++</b> e <b>C</b>( essa ultima é minha terceira linguagem favorita pois foi minha linguagem inicial e ainda costumo implementar estruturas para aprendizado com ela).
+		Além dessas já tive contato com outras linguagens como <b>Haskell</b>, <b>Java</b>, <b>C++</b> e <b>C</b>( essa ultima é minha terceira linguagem favorita pois foi minha linguagem inicial e ainda costumo implementar estruturas para aprendizado com ela).
 	</p>
 	<p align="justify">
 		Sobre banco de dados já tive que lidar com bancos relacionais e não relacionais, como <b>MySql</b>, <b>MongoDB</b>, <b>Fire Base</b> e <b>SQLite</b>.
