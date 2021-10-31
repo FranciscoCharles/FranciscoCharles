@@ -15,6 +15,10 @@
 	</p>
 </div>
 
+<p>
+<img src="asserts/informacoes-gerais.png" alt="informacoes-gerais" width="100%">
+</p>
+  
 <details>
     <summary><img src="asserts/estudando.png" alt="estudando" height="40"></summary>
 <p>
