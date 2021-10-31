@@ -7,17 +7,19 @@
 </h2>
 <div align="center">
 	<p align="justify">
-		Sou um desenvolvedor autodidata que atualmente utiliza  com mais frêquencia as linguagens <b>Python</b> e <b>Javascript</b>.
+		&emsp;&emsp;Sou um desenvolvedor autodidata que atualmente utiliza  com mais frêquencia as linguagens <b>Python</b> e <b>Javascript</b>.
 		Além dessas já tive contato com outras linguagens como <b>Haskell</b>, <b>Java</b>, <b>C++</b> e <b>C</b>( essa ultima é minha terceira linguagem favorita pois foi minha linguagem inicial e ainda costumo implementar estruturas para aprendizado com ela).
 	</p>
 	<p align="justify">
-		Sobre banco de dados já tive que lidar com bancos relacionais e não relacionais, como <b>MySql</b>, <b>MongoDB</b>, <b>Fire Base</b> e <b>SQLite</b>.
+		&emsp;&emsp;Sobre banco de dados já tive que lidar com bancos relacionais e não relacionais, como <b>MySql</b>, <b>MongoDB</b>, <b>Fire Base</b> e <b>SQLite</b>.
 	</p>
 </div>
 
 <details>
     <summary><img src="asserts/estudando.png" alt="estudando" height="40"></summary>
-Atualmente avançando no universo do desenvolvimento web, visando ser um desenvolvedor full-stack. As principais tecnologias e ferramentas que estou me aprofundando são:
+<p>
+&emsp;&emsp;Atualmente avançando no universo do desenvolvimento web, visando ser um desenvolvedor full-stack. As principais tecnologias e ferramentas que estou me aprofundando são:
+</p>
 
 * 🌶️ **Flask**
 * 📌 **CSS3**
@@ -29,7 +31,9 @@ Atualmente avançando no universo do desenvolvimento web, visando ser um desenvo
 <details>
     <summary><img src="asserts/formacao.png" alt="formacao" height="40"></summary>
 
-Atualmente cursando Sistemas de informação pela universidade federal do piauí(UFPI).
+<p>
+&emsp;&emsp;Atualmente cursando Sistemas de informação pela universidade federal do piauí(UFPI).
+</p>
 
 </details>
 
@@ -66,7 +70,7 @@ Alguns dos meus interesses são:
 * 📌 **Data structures**
 * 📌 **Optimization**
 * 📌 **Designer Patern**
-* 📌 **Clear Code**
+* 📌 **Clean Code**
 * 🎲 **Math**
 * 📌 Simulations
 * 📌 Artificial intelligence
