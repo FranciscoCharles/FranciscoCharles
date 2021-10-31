@@ -7,7 +7,7 @@
 </h2>
 <div align="center">
 	<p align="justify">
-		Sou um desenvolvedor auto-didata que atualmente utiliza  com mais frêquencia as linguagens <b>Python</b> e <b>Javascript</b>.
+		Sou um desenvolvedor autodidata que atualmente utiliza  com mais frêquencia as linguagens <b>Python</b> e <b>Javascript</b>.
 		Além dessas já tive contato com outras linguagens como <b>Haskell</b>, <b>Java</b>, <b>C++</b> e <b>C</b>( essa ultima é minha terceira linguagem favorita pois foi minha linguagem inicial e ainda costumo implementar estruturas para aprendizado com ela).
 	</p>
 	<p align="justify">
@@ -17,7 +17,7 @@
 
 <details>
     <summary><img src="asserts/estudando.png" alt="estudando" height="40"></summary>
-Atualmente avançando no universo do desenvolvimento web, visando ser um desenvolvedor full-stack. As principais técnoligias e ferramentas que estou me aprofundando são:
+Atualmente avançando no universo do desenvolvimento web, visando ser um desenvolvedor full-stack. As principais tecnologia e ferramentas que estou me aprofundando são:
 
 * 🌶️ **Flask**
 * 📌 **CSS3**
