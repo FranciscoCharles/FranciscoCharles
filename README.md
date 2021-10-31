@@ -17,7 +17,7 @@
 
 <details>
     <summary><img src="asserts/estudando.png" alt="estudando" height="40"></summary>
-Atualmente avançando no universo do desenvolvimento web, visando ser um desenvolvedor full-stack. As principais tecnologia e ferramentas que estou me aprofundando são:
+Atualmente avançando no universo do desenvolvimento web, visando ser um desenvolvedor full-stack. As principais tecnologias e ferramentas que estou me aprofundando são:
 
 * 🌶️ **Flask**
 * 📌 **CSS3**
