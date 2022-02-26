@@ -18,7 +18,7 @@
 <p>
 <img src="asserts/informacoes-gerais.png" alt="informacoes-gerais" width="100%">
 </p>
-  
+  <!--
 <details>
     <summary><img src="asserts/estudando.png" alt="estudando" height="40"></summary>
 <p>
@@ -31,7 +31,7 @@
 * ⚛️ **ReactJS**
 
 </details>
-
+-->
 <details>
     <summary><img src="asserts/formacao.png" alt="formacao" height="40"></summary>
 
@@ -43,10 +43,11 @@
 
 <details>
     <summary><img src="asserts/experiencia.png" alt="experiencia" height="40"></summary>
-
-* **4 anos** de experiência em **C**.
-* **3 anos** de experiência em **Python**.
-* **2 anos** de experiência em **Javascript**.
+Tempo de experiencia em algumas linguagems:
+  
+* **5 anos** de experiência em **C**.
+* **4 anos** de experiência em **Python**.
+* **3 anos** de experiência em **Javascript**.
 
 </details>
 
@@ -102,6 +103,8 @@ Alguns dos meus interesses são:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJs" width="50">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue" width="60">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" width="50">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css3" width="50">
@@ -111,6 +114,7 @@ Alguns dos meus interesses são:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60">
+
 </p>
     
 </div>
