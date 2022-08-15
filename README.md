@@ -1,3 +1,4 @@
+<!--
 <div align="center">
 	<img src="asserts/background.png" alt="Nodejs" width="100%">
 </div>
@@ -18,6 +19,7 @@
 <p>
 <img src="asserts/informacoes-gerais.png" alt="informacoes-gerais" width="100%">
 </p>
+-->
   <!--
 <details>
     <summary><img src="asserts/estudando.png" alt="estudando" height="40"></summary>
@@ -32,6 +34,7 @@
 
 </details>
 -->
+<!--
 <details>
     <summary><img src="asserts/formacao.png" alt="formacao" height="40"></summary>
 
@@ -131,7 +134,7 @@ Alguns dos meus interesses são:
 </p>			   
 </div>
 
-
+-->
 <img src="asserts/estatisticas.png" alt="estatisticas" widht="100%">
 <div align="center">
 
